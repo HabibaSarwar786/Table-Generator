@@ -169,7 +169,7 @@ table,td,th{
 
 }
 table{
-    margin-bottom: 3rem;
+    margin-bottom: var(--gutter-x-large);
 }
 th,td{
     padding: 1rem 3rem;
