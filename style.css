@@ -141,7 +141,7 @@ form{
 }
 .table{
   display: flex;
-  border-radius: 2rem;
+  border-radius: var(--guuter-small);
 }
 .sub{
     border-top-right-radius: var(--gutter-mini-small);
